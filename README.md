@@ -2,6 +2,12 @@
 
 > Prueba de programacion de Rebecca Purple
 
+## Run Json-server
+```bash
+# run json-server
+$ json-server --watch db.json --port 3001
+```
+
 ## Build Setup
 
 ```bash

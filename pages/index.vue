@@ -43,7 +43,7 @@ export default {
     try {
       this.list = await this.$axios.$get(
         // 'https://jsonplaceholder.typicode.com/albums',
-        'http://localhost:3000/status/3/products',
+        'http://localhost:3001/status/3/products',
         // 'http://localhost:80/prueba/api/products/?ws_key=L729B1GR3ZK4K9KHML2BP6D65NXUZ3SM',
         // 'http://L729B1GR3ZK4K9KHML2BP6D65NXUZ3SM@localhost:80/prueba/api/products/,'
         // 'http://L729B1GR3ZK4K9KHML2BP6D65NXUZ3SM@localhost:80/prueba/api/products/?output_format=JSON',
