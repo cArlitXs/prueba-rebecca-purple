@@ -1,0 +1,240 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Item 1",
+            "price": 1000.00,
+            "description": "Smartphone",
+            "categoryId": 1,
+            "statusId": 3
+        },
+        {
+          "id": 2,
+          "name": "Item 2",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 3,
+          "name": "Item 3",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 2
+        },
+        {
+          "id": 4,
+          "name": "Item 4",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 5,
+          "name": "Item 5",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+            "id": 6,
+            "name": "Item 6",
+            "price": 1000.00,
+            "description": "Smartphone",
+            "categoryId": 1,
+            "statusId": 3
+        },
+        {
+          "id": 7,
+          "name": "Item 7",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 8,
+          "name": "Item 8",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 2
+        },
+        {
+          "id": 9,
+          "name": "Item 9",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 10,
+          "name": "Item 10",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 11,
+          "name": "Item 11",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 12,
+          "name": "Item 12",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 13,
+          "name": "Item 13",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 2
+        },
+        {
+          "id": 14,
+          "name": "Item 14",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 15,
+          "name": "Item 15",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 16,
+          "name": "Item 16",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 17,
+          "name": "Item 17",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 18,
+          "name": "Item 18",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 2
+        },
+        {
+          "id": 19,
+          "name": "Item 19",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 20,
+          "name": "Item 20",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 21,
+          "name": "Item 21",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 22,
+          "name": "Item 22",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 23,
+          "name": "Item 23",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 2
+        },
+        {
+          "id": 24,
+          "name": "Item 24",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        },
+        {
+          "id": 25,
+          "name": "Item 25",
+          "price": 1000.0,
+          "description": "Smartphone",
+          "categoryId": 1,
+          "statusId": 3
+        }
+    ],
+    "categories":[
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "description": "android, mobile, smartphone"
+        },
+        {
+          "id": 2,
+          "name": "TV",
+          "description": "tv"
+        },
+        {
+          "id": 3,
+          "name": "Smart TV",
+          "description": "android, tv, netflix, hbo"
+        },
+        {
+          "id": 3,
+          "name": "Tablet",
+          "description": "android, mobile"
+        }
+    ],
+    "status":[
+        {
+            "id": 1,
+            "name": "pago aceptado"
+        },
+        {
+          "id": 2,
+          "name": "pago rechazado"
+        },
+        {
+          "id": 3,
+          "name": "sincronizado"
+        }
+    ]
+}
